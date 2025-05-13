@@ -1,7 +1,7 @@
 # PFortifier
 
-This is the code for the paper: PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation.  
-Our work will appear at IEEE S&P 2025.  
+This is the code for the paper: [PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a918/26hiU0IeM3S).  
+The presentation of our work was part of the IEEE S&P 2025 event.  
 Please cite the above paper if you use our code.  
 The code is released under the GPLv3.
 
